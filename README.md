@@ -1,6 +1,7 @@
 # Crafting Interpreters - Traducción al Español
 
-Este repositorio contiene la traducción al español del libro "Crafting Interpreters" escrita con la ayuda del servicio de traducción de [DeepL](https://www.deepl.com/). "Crafting Interpreters" es una guía completa para construir lenguajes de programación interpretados.
+Este repositorio contiene la traducción al español del libro "Crafting Interpreters" escrita con la ayuda del servicio de traducción de [DeepL](https://www.deepl.com/). "Crafting Interpreters" es una guía completa para construir lenguajes de programación interpretados. 
+**NOTA: La traducción del libro puede contener errores en el codigo proporcionado, recomiendo que veas el codigo de el libro original en ingles**
 
 ## Acerca del Libro
 
